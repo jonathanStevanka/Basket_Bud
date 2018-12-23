@@ -1,0 +1,37 @@
+-------------------------------------------------------------------------------------------
+NAME:  Jonathan stevanka
+-------------------------------------------------------------------------------------------
+april 02, 2018
+-------------------------------------------------------------------------------------------
+Want to change/implement:
+
+   DONE -remove the extra coins after they fall through the specified Y coordinate
+   DONE	-fix the timer to show the ten'ths column of the time.
+   DONE	-Change the top menu bar to display bronze,gold,silver and total score
+		-add to the top to show 3 hearts instead of the number 3, and when you lose a 
+		life it turns to a picture of a broken heart
+   		-make a how to play screen with clear instructions
+ JORDAN	-add power up drops, and anvil Pictures.
+		-create the random power drops.
+		random drops could include:
+			Increased speed for falling coins
+			Increased score for falling coins
+			Add an extra life
+			Increased speed for the character movement
+			different character skins
+
+
+ADD SCREENS:
+	-ADD a screen after you lose all three lives to include
+	-time played,total score, coins collected, player name etc..
+	
+
+NEEDS TO BE FINISHED:
+	-THE FULL TIME COUNTER. MAKE SURE IT WORKS AS CODED.
+			
+			
+			
+BUGS:
+	-CHANGE THE ONUPDATE/COLLISIONDETECTION METHODS TO BE OBJECT ORIENTED.
+	-FIX THE SOUND GLITCH
+--------------------------------------------------------------------------------------------
